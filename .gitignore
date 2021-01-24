@@ -1,0 +1,16 @@
+.vagrant
+c_translator_formative.sh
+.log
+bin/
+src/lexer.yy.cpp
+src/lexer.yy.o
+src/parser.output
+src/parser.tab.cpp
+src/parser.tab.hpp
+src/parser.tab.o
+src/print_python.o
+tmp/
+c_translator_formative.sh
+test.c
+testresults.py
+ubuntu-xenial-16.04-cloudimg-console.log
